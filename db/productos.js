@@ -8,7 +8,7 @@ const productos =
         categoria: "tinto",
         enStock: 25,
         cantidad: 1,
-        imagen: '../img/cabernet_reserva.jpg'
+        imagen: './img/cabernet_reserva.jpg'
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ const productos =
         categoria: "tinto",
         enStock: 25,
         cantidad: 1,
-        imagen: "../img/malbec_reserva.jpg"
+        imagen: "./img/malbec_reserva.jpg"
     },
     {
         id: 3,
@@ -28,7 +28,7 @@ const productos =
         categoria: "tinto",
         enStock: 50,
         cantidad: 1,
-        imagen: "../img/malbec.jpg"
+        imagen: "./img/malbec.jpg"
     },
     {
         id: 4,
@@ -38,7 +38,7 @@ const productos =
         categoria: "tinto",
         enStock: 25,
         cantidad: 1,
-        imagen: "../img/cosecha-tardia.jpg"
+        imagen: "./img/cosecha-tardia.jpg"
     },
     {
         id: 5,
@@ -48,7 +48,7 @@ const productos =
         categoria: "rosado",
         enStock: 50,
         cantidad: 1,
-        imagen: "../img/malbec_rose.jpg"
+        imagen: "./img/malbec_rose.jpg"
     },
     {
         id: 6,
@@ -58,7 +58,7 @@ const productos =
         categoria: "blanco",
         enStock: 50,
         cantidad: 1,
-        imagen: "../img/chardonnay.jpg"
+        imagen: "./img/chardonnay.jpg"
     },
     {
         id: 7,
@@ -68,7 +68,7 @@ const productos =
         categoria: "tinto",
         enStock: 50,
         cantidad: 1,
-        imagen: "../img/cabernet.jpg"
+        imagen: "./img/cabernet.jpg"
     },
     {
         id: 8,
@@ -78,7 +78,7 @@ const productos =
         categoria: "espumante",
         enStock: 25,
         cantidad: 1,
-        imagen: "../img/extra_brut.jpg"
+        imagen: "./img/extra_brut.jpg"
     },
     {
         id: 9,
@@ -88,7 +88,7 @@ const productos =
         categoria: "tinto",
         enStock: 35,
         cantidad: 1,
-        imagen: "../img/syrah.jpg"
+        imagen: "./img/syrah.jpg"
     },
     {
         id: 10,
@@ -98,6 +98,6 @@ const productos =
         categoria: "tinto",
         enStock: 35,
         cantidad: 1,
-        imagen: "../img/merlot.jpg"
+        imagen: "./img/merlot.jpg"
     }
 ];
